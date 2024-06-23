@@ -1,0 +1,14 @@
+/Users/nickkey/RiderProjects/CalculatorProject/CalculatorProject/bin/Debug/net8.0/CalculatorProject
+/Users/nickkey/RiderProjects/CalculatorProject/CalculatorProject/bin/Debug/net8.0/CalculatorProject.deps.json
+/Users/nickkey/RiderProjects/CalculatorProject/CalculatorProject/bin/Debug/net8.0/CalculatorProject.runtimeconfig.json
+/Users/nickkey/RiderProjects/CalculatorProject/CalculatorProject/bin/Debug/net8.0/CalculatorProject.dll
+/Users/nickkey/RiderProjects/CalculatorProject/CalculatorProject/bin/Debug/net8.0/CalculatorProject.pdb
+/Users/nickkey/RiderProjects/CalculatorProject/CalculatorProject/obj/Debug/net8.0/CalculatorProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nickkey/RiderProjects/CalculatorProject/CalculatorProject/obj/Debug/net8.0/CalculatorProject.AssemblyInfoInputs.cache
+/Users/nickkey/RiderProjects/CalculatorProject/CalculatorProject/obj/Debug/net8.0/CalculatorProject.AssemblyInfo.cs
+/Users/nickkey/RiderProjects/CalculatorProject/CalculatorProject/obj/Debug/net8.0/CalculatorProject.csproj.CoreCompileInputs.cache
+/Users/nickkey/RiderProjects/CalculatorProject/CalculatorProject/obj/Debug/net8.0/CalculatorProject.dll
+/Users/nickkey/RiderProjects/CalculatorProject/CalculatorProject/obj/Debug/net8.0/refint/CalculatorProject.dll
+/Users/nickkey/RiderProjects/CalculatorProject/CalculatorProject/obj/Debug/net8.0/CalculatorProject.pdb
+/Users/nickkey/RiderProjects/CalculatorProject/CalculatorProject/obj/Debug/net8.0/CalculatorProject.genruntimeconfig.cache
+/Users/nickkey/RiderProjects/CalculatorProject/CalculatorProject/obj/Debug/net8.0/ref/CalculatorProject.dll
